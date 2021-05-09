@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Aquatic\source\repos\oop_lab_5.2\oop_lab_5.2\oop_lab_5.2.cpp(63,1): warning C4297: 'Roots2': function assumed not to throw an exception but does
+C:\Users\Aquatic\source\repos\oop_lab_5.2\oop_lab_5.2\oop_lab_5.2.cpp(63,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\Aquatic\source\repos\oop_lab_5.2\oop_lab_5.2\oop_lab_5.2.cpp(75,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_5.2\oop_lab_5.2\oop_lab_5.2.cpp(93,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_5.2\oop_lab_5.2\oop_lab_5.2.cpp(111,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_5.2\oop_lab_5.2\oop_lab_5.2.cpp(129,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_5.2\oop_lab_5.2\oop_lab_5.2.cpp(242,3): warning C4286: 'E': is caught by base class ('std::exception') on line 238
+     Creating library C:\Users\Aquatic\source\repos\oop_lab_5.2\Debug\UnitTest1.lib and object C:\Users\Aquatic\source\repos\oop_lab_5.2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Aquatic\source\repos\oop_lab_5.2\Debug\UnitTest1.dll
